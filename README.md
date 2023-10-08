@@ -24,5 +24,5 @@ Representation of data formulated through visualisation charts is the better way
 4. Pivot Chart : Collection of Charts and Graphs which is used for the visual representation of summariseded data.
    
 # Reporting
-This is the final visual report of summarised and organised data for Vrinda Store.![Vrinda store Analysis Ss](https://github.com/AmishaSingh21/Analysis-Project/assets/147337191/9aa468ac-4752-438e-b4e9-c625e770005e)
+This is the final visual report of summarised and organised data for Vrinda Store.![Vrinda store Analysis Ss](https://github.com/AmishaSingh21/Analysis-Project/assets/147337191/9aa468ac-4752-438e-b4e9-c625e770005e) 
 
