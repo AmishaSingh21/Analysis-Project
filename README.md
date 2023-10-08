@@ -4,7 +4,7 @@ In this project, the data based on the Sales Report of Vrinda Store has been pro
   1. Project Overview
   2. Data
   3. Analysis
-  4. Representation and Interpretation
+  4. Representation 
   5. Reporting
 # Project Overview
 The purpose of the project is to analyse the data using Microsoft Excel, involving- data cleaning, data processing, creating conditional columns, transforming values in data into colourful charts and graphs as per the query.
@@ -24,4 +24,5 @@ Representation of data formulated through visualisation charts is the better way
 4. Pivot Chart : Collection of Charts and Graphs which is used for the visual representation of summariseded data.
    
 # Reporting
-![Screenshot (415)](https://github.com/AmishaSingh21/Analysis-Project/assets/147337191/868035ee-de66-49f9-b4e7-f2967a828ecf)
+This is the final visual report of summarised and organised data for Vrinda Store.![Vrinda store Analysis Ss](https://github.com/AmishaSingh21/Analysis-Project/assets/147337191/9aa468ac-4752-438e-b4e9-c625e770005e)
+
