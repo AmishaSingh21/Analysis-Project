@@ -23,4 +23,4 @@ Representation of data formulated through visualisation charts is the better way
 3. Pie Chart : Utulised to show the distribution of data in the whole part.
 4. Pivot Chart : Collection of Charts and Graphs which is used for the visual representation of summariseded data.
    
-![ALT TEXT](https://github.com/AmishaSingh21/Analysis-Project/edit/main/README.md#representation)
+
