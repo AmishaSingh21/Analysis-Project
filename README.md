@@ -2,15 +2,40 @@ The Question based on which the dashboard has been created
 # Excel Analysis Project 
 In this project, the data based on the Sales Report of Vrinda Store has been processed and analysed using the various charts and tools and techniques offered by Microsoft Excel. The project aims to provide transparent and concise information related to the report through engaging visualisations.
 # Table of Contents
-  1. Project Overview
-  2. Data
-  3. Analysis
-  4. Representation 
-  5. Reporting
-# Project Overview
-The purpose of the project is to analyse the data using Microsoft Excel, involving- data cleaning, data processing, creating conditional columns, transforming values in data into colourful charts and graphs as per the query.
-# Data
-The source of data for the project is the Excel File which contains the data to be analysed.
+  1. Dataset Overview
+  2. Analysis
+  3. Representation
+  4. Reporting
+# Dataset Overview
+  1. Tables=1
+  2. No. of Rows = 31047
+  3. No. of Columns = 20
+
+     |Columns | Desription|
+     |--------|-----------|
+     |Order_Id|Unique id|
+     |Customer_Id|Unique id|
+     |Gender|W or M|
+     |Age|Integer|
+     |Age Group|Teenager, Adult, Senior|
+     |Date|Date, month, year|
+     |Month|First 3 Characters|
+     |Status|Cancelled, delivered, returned, refunded|
+     |Category|Kurta, Sets, Western, Blouse, Bottom, Top,Saree|
+     |Channel|Ajio, Amazon, Flipkart, Myntra, Meesho, Nalli, Others|
+     |Size|S, Free to 6XL|
+     |Quantity|1-55|
+     |Currency|INR|
+     |Amount|Numbers|
+     |Ship City|Pan India|
+     |Ship state|Pan India|
+     |Ship Postal Code|Numbers|
+     |Ship Country|India|
+     |B2B|True, False|
+     
+     
+     
+     
 # Analysis
 1. Data Processing :  To structure and organize the rows and columns of the data extracted.
 2. Data Cleaning : To remove the unnecessary columns and rows from the data model which involves- removing duplicates and null values, handle missing datas.
