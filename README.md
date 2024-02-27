@@ -33,7 +33,7 @@ In this project, the data based on the Sales Report of Vrinda Store has been pro
      |Ship Country|India|
      |B2B|True, False|
 ## Analysis Question:-
-Q1. Compare the sales and orders using single chart ?.
+1. Compare the sales and orders using single chart ?.
 2. Which Month got the highest sale and orders ?.
 3. In the year 2022, who purchased more- Men or Women ?
 4. What are the different order status in the year 2022 ?
