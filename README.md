@@ -34,17 +34,17 @@ In this project, the data based on the Sales Report of Vrinda Store has been pro
      |B2B|True, False|
 ## Analysis Question:-
 Q1. Compare the sales and orders using single chart ?.
-Q2. Which Month got the highest sale and orders ?.
-Q3. In the year 2022, who purchased more- Men or Women ?
-Q4. What are the different order status in the year 2022 ?
-Q5. The top 10 states contributing to the sales ?
-Q6. Relation between the age and the gender based on the age numbers ?
-Q7. Which channel is contributing to the maximum sales ?
-Q8. Highest salary category ?
-Q9. Which channel has made what % of sale ?
-Q10. Show the sales report according to timestamp ?
-Q11. What are the count of Orders made by different Genders based on their Age Group ?
-Q12. What are the percentage count of orders made by each channels ?
+2. Which Month got the highest sale and orders ?.
+3. In the year 2022, who purchased more- Men or Women ?
+4. What are the different order status in the year 2022 ?
+5. The top 10 states contributing to the sales ?
+6. Relation between the age and the gender based on the age numbers ?
+7. Which channel is contributing to the maximum sales ?
+8. Highest salary category ?
+9. Which channel has made what % of sale ?
+10. Show the sales report according to timestamp ?
+11. What are the count of Orders made by different Genders based on their Age Group ?
+12. What are the percentage count of orders made by each channels ?
 
 * Data Processing :  _To structure and organize the rows and columns of the data extracted._
 * Data Cleaning : _To remove the unnecessary columns and rows from the data model which involves- removing duplicates and null values, handle missing datas._
