@@ -60,6 +60,8 @@ Representation of data formulated through visualisation charts is the better way
 5. Slicers: This represents the timestamp through which we can analyse the trend from time to time.
    
 # Reporting
-This is the final visual report of summarised and organised data for Vrinda Store.![Vrinda store Analysis Ss](https://github.com/AmishaSingh21/Analysis-Project/assets/147337191/9aa468ac-4752-438e-b4e9-c625e770005e) 
+This is the final result of my Analysis.
+![Screenshot (466)](https://github.com/AmishaSingh21/Excel-Analysis-Project/assets/147337191/a968664d-757c-428e-9401-069e158e0340)
+
 
 
