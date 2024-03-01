@@ -1,11 +1,11 @@
-The Question based on which the dashboard has been created
+![Screenshot (466)](https://github.com/AmishaSingh21/Excel-Analysis-Project/assets/147337191/9e9ebfe0-1e38-4b3d-a07a-a699a1da2309)
 # Excel Analysis Project 
-In this project, the data based on the Sales Report of Vrinda Store has been processed and analysed using the various charts and tools and techniques offered by Microsoft Excel. The project aims to provide transparent and concise information related to the report through engaging visualisations.
+In this project, the data based on the Sales Report of Vrinda Store has been processed and analysed using the various charts and tools and techniques offered by Microsoft Excel. 
+The project aims to provide transparent and concise information related to the report through engaging visualisations.
 # Table of Contents
   1. Dataset Overview
   2. Analysis Question
-  3. Representation
-  4. Reporting
+  3. Reporting
 # Dataset Overview
   1. Tables=1
   2. No. of Rows = 31047
@@ -46,22 +46,13 @@ In this project, the data based on the Sales Report of Vrinda Store has been pro
 11. What are the count of Orders made by different Genders based on their Age Group ?
 12. What are the percentage count of orders made by each channels ?
 
-* Data Processing :  _To structure and organize the rows and columns of the data extracted._
-* Data Cleaning : _To remove the unnecessary columns and rows from the data model which involves- removing duplicates and null values, handle missing datas._
-* Columns Creation : _To create new conditional columns as per the requirement of the analysis._
-* Data Manipulation : _To modify the data using the formulas and functions so to carry out in-depth information from the data._
-* Calculative Analysis : _To utilize the various mathemaatical, statistical techniques like - Averages, Median, Correlation, Sum so to build a pattern while data comprehension._
-# Representation
-Representation of data formulated through visualisation charts is the better way to understand the data at a place so to build insights.
-1. Line chart: Utilised to represent trends from time to time in a huge set of data.
-2. Bar Chart : Utilised to compare values.
-3. Pie Chart : Utulised to show the distribution of data in the whole part.
-4. Pivot Chart : Collection of Charts and Graphs which is used for the visual representation of summariseded data.
-5. Slicers: This represents the timestamp through which we can analyse the trend from time to time.
-   
+* Data Transformating :  _Transformed the structured the extrcted datagiving it a proper fit into the row and column_
+* Data Cleaning : _Removed the unnecessary columns, duplicates and null values, Inconsistencies handle missing datas_
+* Columns Creation : _Created Age Group column using Excel 'IFs' function._, _Extracted MONTH from data using 'TEXT' function_
+* Data Manipulation : _Manipulated data as per the requirement where I utilised certain Filters and Functions_
+* Pivot Table : _Inserted the structured data into various sheets to prepare engaging visuals through Graphs and charts Slicers_
+
 # Reporting
 This is the final result of my Analysis.
-![Screenshot (466)](https://github.com/AmishaSingh21/Excel-Analysis-Project/assets/147337191/a968664d-757c-428e-9401-069e158e0340)
-
-
+![Screenshot (466)](https://github.com/AmishaSingh21/Excel-Analysis-Project/assets/147337191/3e4f2902-0ee6-47ee-9d59-97bc5412fe9f)
 
