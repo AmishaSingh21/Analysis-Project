@@ -1,7 +1,7 @@
 ![Screenshot (466)](https://github.com/AmishaSingh21/Excel-Analysis-Project/assets/147337191/9e9ebfe0-1e38-4b3d-a07a-a699a1da2309)
 # Excel Analysis Project 
 In this project, the data based on the Sales Report of Vrinda Store has been processed and analysed using the various charts and tools and techniques offered by Microsoft Excel. 
-The project aims to provide transparent and concise information related to the report through engaging visualisations.
+The project aims to provide transparent and concise information related to the report through engaging visualisations
 # Table of Contents
 1. Analysis Question
 2. Database Overview
