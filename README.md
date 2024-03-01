@@ -3,9 +3,23 @@
 In this project, the data based on the Sales Report of Vrinda Store has been processed and analysed using the various charts and tools and techniques offered by Microsoft Excel. 
 The project aims to provide transparent and concise information related to the report through engaging visualisations.
 # Table of Contents
-  1. Dataset Overview
-  2. Analysis Question
-  3. Reporting
+1. Analysis Question
+2. Database Overview
+3. Reporting
+## Analysis Question:-
+1. Compare the sales and orders using single chart ?.
+2. Which Month got the highest sale and orders ?.
+3. In the year 2022, who purchased more- Men or Women ?
+4. What are the different order status in the year 2022 ?
+5. The top 10 states contributing to the sales ?
+6. Relation between the age and the gender based on the age numbers ?
+7. Which channel is contributing to the maximum sales ?
+8. Highest salary category ?
+9. Which channel has made what % of sale ?
+10. Show the sales report according to timestamp ?
+11. What are the count of Orders made by different Genders based on their Age Group ?
+12. What are the percentage count of orders made by each channels ?
+
 # Dataset Overview
   1. Tables=1
   2. No. of Rows = 31047
@@ -32,19 +46,6 @@ The project aims to provide transparent and concise information related to the r
      |Ship Postal Code|Numbers|
      |Ship Country|India|
      |B2B|True, False|
-## Analysis Question:-
-1. Compare the sales and orders using single chart ?.
-2. Which Month got the highest sale and orders ?.
-3. In the year 2022, who purchased more- Men or Women ?
-4. What are the different order status in the year 2022 ?
-5. The top 10 states contributing to the sales ?
-6. Relation between the age and the gender based on the age numbers ?
-7. Which channel is contributing to the maximum sales ?
-8. Highest salary category ?
-9. Which channel has made what % of sale ?
-10. Show the sales report according to timestamp ?
-11. What are the count of Orders made by different Genders based on their Age Group ?
-12. What are the percentage count of orders made by each channels ?
 
 * Data Transformating :  _Transformed the structured the extrcted datagiving it a proper fit into the row and column_
 * Data Cleaning : _Removed the unnecessary columns, duplicates and null values, Inconsistencies handle missing datas_
